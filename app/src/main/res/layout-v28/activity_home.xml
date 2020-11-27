@@ -199,10 +199,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -223,10 +220,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -247,10 +241,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -272,10 +263,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -296,10 +284,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -320,10 +305,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -344,10 +326,6 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
 
 
             </LinearLayout>
@@ -369,10 +347,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -393,10 +368,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -417,10 +389,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -441,10 +410,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -465,10 +431,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -489,10 +452,7 @@
                     android:layout_width="200dp"
                     android:layout_height="30dp"
                     android:text="*******" />
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
@@ -514,10 +474,7 @@
                     android:layout_height="30dp"
                     android:text="*******" />
 
-                <ImageView
-                    android:layout_width="30dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/editpenwhite" />
+
 
             </LinearLayout>
 
